@@ -1,0 +1,13 @@
+.res_container {
+  border: 1px solid black;
+  padding: 40px;
+  align-content: center;
+}
+
+.res_title {
+  text-align: left;
+}
+
+.res_result {
+  padding-top: 50px;
+}
