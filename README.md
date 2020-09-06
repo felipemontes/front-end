@@ -7,6 +7,7 @@ Clone the repository
 ```python
 git clone https://github.com/felipemontes/front-end.git
 cd front-end
+npm install
 ```
 
 ## Usage
